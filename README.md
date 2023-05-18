@@ -12,3 +12,5 @@ Supplemental File 2. Annotations of centromeres, and telomeres of T2T-CHM13-v2.2
   dense["chr1"]
   
 Supplemental File 3. Table of pairwise R2 between simple satellites and table of pairwise interspersion OR between simple satellites.
+Supplemental File 4. Materials and results of cenGRM analysis. Boundaries used for centromeric regions of each cenGRM, cenGRMs in GCTA format, and tables with the results of cenGRM GCTA runs. Also provide pdfs of the dendrograms/heatmaps produced from UPGMA clustering of each cenGRM.
+
