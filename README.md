@@ -14,5 +14,14 @@ Repository containing supplemental files and analysis code for 1KGP satellite pr
   
 **Supplemental File 3. **Table of pairwise R2 between simple satellites and table of pairwise interspersion OR between simple satellites. Folder containing QQ plots of negative binomial fit of satellite copy number distribution used to qualitatively asses model fit.
 
-S**upplemental File 4.** Materials and results of cenGRM analysis. Boundaries used for centromeric regions of each cenGRM, cenGRMs in GCTA format, and tables with the results of cenGRM GCTA runs. Also provide pdfs of the dendrograms/heatmaps produced from UPGMA clustering of each cenGRM.
+**Supplemental File 4.** Materials and results of cenGRM analysis. Boundaries used for centromeric regions of each cenGRM, cenGRMs in GCTA format, and tables with the results of cenGRM GCTA runs. Also provide pdfs of the dendrograms/heatmaps produced from UPGMA clustering of each cenGRM.
+
+**Supplemental Table 1.** Copy number normalized to 1x depth given GC bias of 126 most satellites analyzed in paper in each individual. Additional columns represent metadata of the individual:
+
+* instrument: sequencer instrument name used to sequence library.
+* run: sequencer run of the library.
+* flow: flowcell ID of the ibrary.
+* pop: 1,000 Genomes Project population ID.
+* superpop: 1,000 Genomes Project superpopulation ID.
+* reads: average autosomal read depth of the library.
 
