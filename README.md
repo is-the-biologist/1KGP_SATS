@@ -12,7 +12,7 @@ Repository containing supplemental files and analysis code for 1KGP satellite pr
   dense = np.load("filename.npz")
   dense["chr1"]
   
-**Supplemental File 3. **Table of pairwise R2 between simple satellites and table of pairwise interspersion OR between simple satellites. Folder containing QQ plots of negative binomial fit of satellite copy number distribution used to qualitatively asses model fit.
+**Supplemental File 3.** Table of pairwise R2 between simple satellites and table of pairwise interspersion OR between simple satellites. Folder containing QQ plots of negative binomial fit of satellite copy number distribution used to qualitatively asses model fit.
 
 **Supplemental File 4.** Materials and results of cenGRM analysis. Boundaries used for centromeric regions of each cenGRM, cenGRMs in GCTA format, and tables with the results of cenGRM GCTA runs. Also provide pdfs of the dendrograms/heatmaps produced from UPGMA clustering of each cenGRM.
 
