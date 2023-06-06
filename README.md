@@ -8,9 +8,9 @@ Repository containing supplemental files and analysis code for 1KGP satellite pr
 
 **Supplemental File 2.** Annotations of centromeres, and telomeres of T2T-CHM13-v2.20. Table of abundance of k-mers in annotated regions as numpy file from BLAST hits. Abundance of k-mers across genome in 100kb bins from BLAST hits as .npz files accessible by example:
 
-  import numpy as np
-  dense = np.load("filename.npz")
-  dense["chr1"]
+    import numpy as np
+    dense = np.load("filename.npz")
+    dense["chr1"]
   
 **Supplemental File 3.** Table of pairwise R2 between simple satellites and table of pairwise interspersion OR between simple satellites. Folder containing QQ plots of negative binomial fit of satellite copy number distribution used to qualitatively asses model fit.
 
