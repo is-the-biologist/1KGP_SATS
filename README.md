@@ -1,8 +1,8 @@
 # 1KGP_SATS
-Repository of satellite variation in 1KGP data.
+Repository containing supplemental files and analysis code for 1KGP satellite project.
 
 
-Supplemental Files:
+**Supplemental Files:**
 
 **Supplemental File 1.** BLAST results of k-mer concatemers against T2T-CHM13-v2.0.
 
