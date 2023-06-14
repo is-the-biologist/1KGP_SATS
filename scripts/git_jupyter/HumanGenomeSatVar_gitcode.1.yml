@@ -1,4 +1,4 @@
-name: 1KGP_GIT
+name: HumanGenomeSatVar_gitcode.1
 channels:
   - conda-forge
   - bioconda
@@ -180,4 +180,4 @@ dependencies:
     - texttable==1.6.7
     - threadpoolctl==3.1.0
     - tzdata==2023.3
-prefix: /Users/iskander/opt/anaconda3/envs/1KGP_GIT
+prefix: /Users/iskander/opt/anaconda3/envs/HumanGenomeSatVar_gitcode.1
