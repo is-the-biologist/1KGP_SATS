@@ -20,7 +20,17 @@ to activate
 
 # Jupyter Notebooks:
 
+Once environments have been created. Open Jupyter-Notebook in conda using the terminal _e.g_
+
+    conda activate HumanGenomeSatVar_gitcode.1
+    jupyter-notebook
+
+Then you should be able to run the entire notebook from start to finish as you would any notebook of the kind. 
+
 # Python scripts
 
 * interspersion.py: Script contains algorithm for counting interspersed satellites based on the read-pair output from k-seek.
 * normKseek.py: Describes the algorithm used for normalizing raw k-mer counts data by GC and read depth using a GC bin table.
+
+
+**For any problems with code chunks or environments email: iskander.said@gmail.com**
