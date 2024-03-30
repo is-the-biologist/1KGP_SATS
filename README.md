@@ -6,9 +6,7 @@ Repository containing supplemental files and analysis code for 1KGP satellite pr
 Folder contains scripts and jupyter notebooks for generating major figures and results from manuscript.
 
 ## Supplemental Files:
-All Supplemental data can be found in the following Zenodo depository: 
-
-https://zenodo.org/records/10896290?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImVlYzBiNmQ3LWRjMzQtNGNlNC05ZTBhLTRlOGE0OWFhZjM2YyIsImRhdGEiOnt9LCJyYW5kb20iOiI5OTgwMTYwZjBkMGFiYTI4YjYxZDhiNzVhNWYzYTRkNSJ9.78Ox7KkliHPP02U4iPBnC3hX5Nx8rcR2rZdTe_6X1pQdJQ9asEmlU07zVgAmCFCXpBE0UdbG9u2RhZHIw8MIlQ
+All Supplemental data can be found in [Zenodo](https://zenodo.org/records/10896290?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImVlYzBiNmQ3LWRjMzQtNGNlNC05ZTBhLTRlOGE0OWFhZjM2YyIsImRhdGEiOnt9LCJyYW5kb20iOiI5OTgwMTYwZjBkMGFiYTI4YjYxZDhiNzVhNWYzYTRkNSJ9.78Ox7KkliHPP02U4iPBnC3hX5Nx8rcR2rZdTe_6X1pQdJQ9asEmlU07zVgAmCFCXpBE0UdbG9u2RhZHIw8MIlQ)
 
 Smaller Supplemental Files can be accessed through this repo, but large files are stored soley in Zenodo.
 
