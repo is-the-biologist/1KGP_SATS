@@ -31,5 +31,5 @@ Smaller Supplemental Files can be accessed through this repo, but large files ar
 * superpop: 1,000 Genomes Project superpopulation ID.
 * reads: average autosomal read depth of the library.
 
-**Supplemental Table 2.** Copy number normalized to 1x depth given GC bias of the top 126 most abundant satellites analyzed in paper in each individual of the 1KGP, plus estimates of the same satellites in CHM13 short-read libraries subsampled from 18x-0.5x, 18x depth simulated library of the T2T-CHM13v2.0 assembly analyzed using k-Seek, and Tandem Repeat Finder results of the T2T-CHM13v2.0 asembly [(Hoyt 2022)](DOI: 10.1126/science.abk3112).
+**Supplemental Table 2.** Copy number normalized to 1x depth given GC bias of the top 126 most abundant satellites analyzed in paper in each individual of the 1KGP, plus estimates of the same satellites in CHM13 short-read libraries subsampled from 18x-0.5x, 18x depth simulated library of the T2T-CHM13v2.0 assembly analyzed using k-Seek, and Tandem Repeat Finder results of the T2T-CHM13v2.0 asembly [Hoyt 2022](DOI: 10.1126/science.abk3112).
 
