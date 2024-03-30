@@ -22,7 +22,7 @@ Smaller Supplemental Files can be accessed through this repo, but large files ar
 
 **Supplemental File 4.** Materials and results of cenGRM analysis. Boundaries used for centromeric regions of each cenGRM, cenGRMs in GCTA format, and tables with the results of cenGRM GCTA runs. Also provide pdfs of the dendrograms/heatmaps produced from UPGMA clustering of each cenGRM. 
 
-**Supplemental Table 1.** Copy number normalized to 1x depth given GC bias of 126 most satellites analyzed in paper in each individual. Additional columns represent metadata of the individual:
+**Supplemental Table 1.** Copy number normalized to 1x depth given GC bias of 126 most abundant satellites analyzed in paper in each individual. Additional columns represent metadata of the individual:
 
 * instrument: sequencer instrument name used to sequence library.
 * run: sequencer run of the library.
@@ -31,4 +31,5 @@ Smaller Supplemental Files can be accessed through this repo, but large files ar
 * superpop: 1,000 Genomes Project superpopulation ID.
 * reads: average autosomal read depth of the library.
 
+**Supplemental Table 2.** Copy number normalized to 1x depth given GC bias of the top 126 most abundant satellites analyzed in paper in each individual of the 1KGP, plus estimates of the same satellites in CHM13 short-read libraries subsampled from 18x-0.5x, 18x depth simulated library of the T2T-CHM13v2.0 assembly analyzed using k-Seek, and Tandem Repeat Finder results of the T2T-CHM13v2.0 asembly [(Hoyt 2022)](DOI: 10.1126/science.abk3112).
 
