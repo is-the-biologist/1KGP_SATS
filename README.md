@@ -22,6 +22,8 @@ Smaller Supplemental Files can be accessed through this repo, but large files ar
 
 **Supplemental File 4.** Materials and results of cenGRM analysis. Boundaries used for centromeric regions of each cenGRM, cenGRMs in GCTA format, and tables with the results of cenGRM GCTA runs. Also provide pdfs of the dendrograms/heatmaps produced from UPGMA clustering of each cenGRM. 
 
+**Supplemental File 5** Non-human significant BLAST hits from BLAST-ing k-mer concatamers to non-human sequences.
+
 **Supplemental Table 1.** Copy number normalized to 1x depth given GC bias of 126 most abundant satellites analyzed in paper in each individual. Additional columns represent metadata of the individual:
 
 * instrument: sequencer instrument name used to sequence library.
