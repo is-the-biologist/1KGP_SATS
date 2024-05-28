@@ -13,7 +13,7 @@ Then activate the environments before runing notebook HumanGenomeSatVar_gitcode.
 
 or
  
-    conda activate HumanGenomeSatVar_gitcode.1    
+    conda activate HumanGenomeSatVar_gitcode.2    
  
 
 to activate 
